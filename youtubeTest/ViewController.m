@@ -22,7 +22,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSString *videoURL = @"https://www.youtube.com/embed/CchqGSPNvns";
+    NSString *videoURL = @"https://www.youtube.com/watch?v=1eZCzOKyPgc";
     //https://www.youtube.com/watch?v=1eZCzOKyPgc
     //https://www.youtube.com/embed/T6yMJmSErRk
     //https://www.youtube.com/embed/CchqGSPNvns
